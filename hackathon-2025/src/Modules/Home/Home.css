@@ -3,7 +3,7 @@
   --msger-bg: #fff;
   --border: 2px solid #ddd;
   --left-msg-bg: #ececec;
-  --right-msg-bg: #579ffb;
+  --right-msg-bg: #a6cd25;
 }
 
 html {
@@ -136,16 +136,18 @@ body {
 }
 .msger-send-btn {
   margin-left: 10px;
-  background: rgb(0, 196, 65);
+  background: rgb(12, 139, 168);
   color: #fff;
   font-weight: bold;
   cursor: pointer;
   transition: background 0.23s;
 }
 .msger-send-btn:hover {
-  background: rgb(0, 180, 50);
+ background: rgb(12, 139, 168);
+
 }
 
 .msger-chat {
-  background-color: pink;
+  background-color: rgb(12, 139, 168);
+
 }
