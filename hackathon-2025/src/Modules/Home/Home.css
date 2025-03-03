@@ -20,8 +20,6 @@ html {
 
 body {
   display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
   background-image: var(--body-bg);
   font-family: Helvetica, sans-serif;
@@ -35,8 +33,8 @@ body {
   max-width: 867px; */
   margin: 25px 10px;
   /* height: calc(100% - 50px); */
-  width: 900px;  /* Example width */
-  height: 600px; /* Example height */
+  width: 1200px;  /* Example width */
+  height: 650px; /* Example height */
   border: var(--border);
   border-radius: 5px;
   background: var(--msger-bg);
